@@ -13,7 +13,7 @@ vim.opt.rtp:prepend(lazypath)
 require('lazy').setup({
 
 -- Plugins are declared as required here as found in the /core/plugins
-require 'plugins.treesitter',    
+require 'plugins.neotree',    
 require 'plugins.colortheme',
 require 'plugins.treesitter'
 
