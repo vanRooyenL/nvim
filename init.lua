@@ -29,4 +29,5 @@ require("lazy").setup({
     require("plugins.autoformattiong"),
     require("plugins.gitsigns"),
     require("plugins.alpha"),
+    require("plugins.indent-blankline"),
 })
